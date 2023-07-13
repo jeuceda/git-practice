@@ -10,7 +10,7 @@ git checkout: se usa para cambiar a un branch diferente
 
 git log: muestra el registro de todos los cambios realizados al repositorio.
 
-git branch: crea un nuevo branch 
+git branch: crea un nuevo branch.
 
 git add: añade los cambios en los archivos a la cola de cambios.
 
@@ -18,4 +18,4 @@ git commit: crea un commit con los cambios.
 
 git push: sube los cambios del repositorio local al remoto.
 
-git merge: combina cambios en branches diferentes
+git merge: combina cambios en branches diferentes.
